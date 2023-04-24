@@ -6,13 +6,13 @@
         "id": "@id",
         "type": "@type",
         "Certificate2": {
-          "@id": "https://example.com/credential-schema/birthday-credential.jsonld#Certificate2",
+          "@id": "https://raw.githubusercontent.com/atharva-pb/Certificate-bday-object/main/certificate_2.jsonld#Certificate2",
           "@context": {
             "@version": 1.1,
             "@protected": true,
             "id": "@id",
             "type": "@type",
-            "certificate_2-vocab": "https://example.com/credential-schema/certificate_2-vocab.md#",
+            "certificate_2-vocab": "https://github.com/atharva-pb/Certificate-bday-object/blob/main/certificate_2-vocab.md#",
             "xsd": "http://www.w3.org/2001/XMLSchema#",
             "birthday": {
                 "@id": "certificate_2-vocab:birthday",
