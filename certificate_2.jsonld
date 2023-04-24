@@ -5,8 +5,8 @@
         "@protected": true,
         "id": "@id",
         "type": "@type",
-        "KYCBirthdayCredential": {
-          "@id": "https://example.com/credential-schema/birthday-credential.jsonld#KYCBirthdayCredential",
+        "Certificate2": {
+          "@id": "https://example.com/credential-schema/birthday-credential.jsonld#Certificate2",
           "@context": {
             "@version": 1.1,
             "@protected": true,
